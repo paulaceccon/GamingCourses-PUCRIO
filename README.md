@@ -5,11 +5,8 @@ Some methods may be deprecated since this was developed in 2013, using an old [U
 
 - Some screenshots:
 
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss1.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss2.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss3.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss4.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss5.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss6.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss1.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss2.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss3.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss4.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss5.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/SpaceShipBattle/blob/master/Screenshots/ss6.png" alt="alt text" width="400">
 
 
