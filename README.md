@@ -5,9 +5,9 @@ Some methods may be deprecated since this was developed in 2013, using an old [U
 
 - Some screenshots:
 
-<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss1.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss2.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss3.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss4.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss5.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/tree/master/SpaceShipBattle/Screenshots/ss6.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss1.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss2.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss3.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss4.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss5.png" alt="alt text" width="400" hspace="20"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/SpaceShipBattle/Screenshots/ss6.png" alt="alt text" width="400">
 
 ---
 # Xonix3D
