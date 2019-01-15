@@ -1,6 +1,6 @@
 # SpaceShipBattle
 Game developed for the GAME AI course at PUC-RIO / INF, lectured by [Bruno Feijó](http://www.icad.puc-rio.br/courses/).
-Some methods may be deprecated since this was developed in 2013, using an old [Unity3D](https://unity3d.com) version.
+Some methods might be deprecated since this was developed in 2013, using an old [Unity3D](https://unity3d.com) version.
 
 
 - Some screenshots:
@@ -13,7 +13,7 @@ Some methods may be deprecated since this was developed in 2013, using an old [U
 # Xonix3D
 
 Game developed for the ACJogos course at PUC-RIO / INF, lectured by [Bruno Feijó](http://www.icad.puc-rio.br/courses/).
-Some methods may be deprecated since this was developed in 2014, using an old [Unity3D](https://unity3d.com) version.
+Some methods might be deprecated since this was developed in 2014, using an old [Unity3D](https://unity3d.com) version.
 Based on [AirXonix](http://www.axysoft.com/airxonix/).
 
 
