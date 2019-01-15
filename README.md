@@ -19,6 +19,6 @@ Based on [AirXonix](http://www.axysoft.com/airxonix/).
 
 - Some screenshots:
 
-<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Screenshots/ss0.png" alt="alt text" width="400"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Screenshots/ss1.png" alt="alt text" width="400">
-<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Screenshots/ss2.png" alt="alt text" width="400"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Screenshots/ss3.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Xonix3D/Screenshots/ss0.png" alt="alt text" width="400"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Xonix3D/Screenshots/ss1.png" alt="alt text" width="400">
+<img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Xonix3D/Screenshots/ss2.png" alt="alt text" width="400"> <img src="https://github.com/paulaceccon/GamingCourses-PUCRIO/blob/master/Xonix3D/Screenshots/ss3.png" alt="alt text" width="400">
 
